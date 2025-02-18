@@ -8,6 +8,5 @@ Handling payments on both the backend and frontend
 Ensuring a smooth checkout experience with dynamic UI elements
 Managing transactions securely
 Providing users with clear payment status updates
-Outcome:
 
 By the end of this tutorial, you'll have a fully functional payment system powered by Stripe, seamlessly integrated into your Next.js app.
